@@ -1,0 +1,15 @@
+C:\Users\admin\Downloads\Desktop\homework\taskCoins\bin\Debug\net6.0\taskCoins.exe
+C:\Users\admin\Downloads\Desktop\homework\taskCoins\bin\Debug\net6.0\taskCoins.deps.json
+C:\Users\admin\Downloads\Desktop\homework\taskCoins\bin\Debug\net6.0\taskCoins.runtimeconfig.json
+C:\Users\admin\Downloads\Desktop\homework\taskCoins\bin\Debug\net6.0\taskCoins.dll
+C:\Users\admin\Downloads\Desktop\homework\taskCoins\bin\Debug\net6.0\taskCoins.pdb
+C:\Users\admin\Downloads\Desktop\homework\taskCoins\obj\Debug\net6.0\taskCoins.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Desktop\homework\taskCoins\obj\Debug\net6.0\taskCoins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\Desktop\homework\taskCoins\obj\Debug\net6.0\taskCoins.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\Desktop\homework\taskCoins\obj\Debug\net6.0\taskCoins.AssemblyInfo.cs
+C:\Users\admin\Downloads\Desktop\homework\taskCoins\obj\Debug\net6.0\taskCoins.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Desktop\homework\taskCoins\obj\Debug\net6.0\taskCoins.dll
+C:\Users\admin\Downloads\Desktop\homework\taskCoins\obj\Debug\net6.0\refint\taskCoins.dll
+C:\Users\admin\Downloads\Desktop\homework\taskCoins\obj\Debug\net6.0\taskCoins.pdb
+C:\Users\admin\Downloads\Desktop\homework\taskCoins\obj\Debug\net6.0\taskCoins.genruntimeconfig.cache
+C:\Users\admin\Downloads\Desktop\homework\taskCoins\obj\Debug\net6.0\ref\taskCoins.dll
