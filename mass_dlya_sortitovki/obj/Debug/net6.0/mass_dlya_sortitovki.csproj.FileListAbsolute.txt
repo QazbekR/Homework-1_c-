@@ -1,0 +1,15 @@
+C:\Users\admin\Downloads\Desktop\homework\mass_dlya_sortitovki\obj\Debug\net6.0\mass_dlya_sortitovki.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Desktop\homework\mass_dlya_sortitovki\obj\Debug\net6.0\mass_dlya_sortitovki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\Desktop\homework\mass_dlya_sortitovki\obj\Debug\net6.0\mass_dlya_sortitovki.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\Desktop\homework\mass_dlya_sortitovki\obj\Debug\net6.0\mass_dlya_sortitovki.AssemblyInfo.cs
+C:\Users\admin\Downloads\Desktop\homework\mass_dlya_sortitovki\obj\Debug\net6.0\mass_dlya_sortitovki.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Desktop\homework\mass_dlya_sortitovki\bin\Debug\net6.0\mass_dlya_sortitovki.exe
+C:\Users\admin\Downloads\Desktop\homework\mass_dlya_sortitovki\bin\Debug\net6.0\mass_dlya_sortitovki.deps.json
+C:\Users\admin\Downloads\Desktop\homework\mass_dlya_sortitovki\bin\Debug\net6.0\mass_dlya_sortitovki.runtimeconfig.json
+C:\Users\admin\Downloads\Desktop\homework\mass_dlya_sortitovki\bin\Debug\net6.0\mass_dlya_sortitovki.dll
+C:\Users\admin\Downloads\Desktop\homework\mass_dlya_sortitovki\bin\Debug\net6.0\mass_dlya_sortitovki.pdb
+C:\Users\admin\Downloads\Desktop\homework\mass_dlya_sortitovki\obj\Debug\net6.0\mass_dlya_sortitovki.dll
+C:\Users\admin\Downloads\Desktop\homework\mass_dlya_sortitovki\obj\Debug\net6.0\refint\mass_dlya_sortitovki.dll
+C:\Users\admin\Downloads\Desktop\homework\mass_dlya_sortitovki\obj\Debug\net6.0\mass_dlya_sortitovki.pdb
+C:\Users\admin\Downloads\Desktop\homework\mass_dlya_sortitovki\obj\Debug\net6.0\mass_dlya_sortitovki.genruntimeconfig.cache
+C:\Users\admin\Downloads\Desktop\homework\mass_dlya_sortitovki\obj\Debug\net6.0\ref\mass_dlya_sortitovki.dll
