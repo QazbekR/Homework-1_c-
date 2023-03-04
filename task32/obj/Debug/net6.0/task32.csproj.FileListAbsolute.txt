@@ -1,0 +1,15 @@
+C:\Users\admin\Downloads\Desktop\homework\task32\bin\Debug\net6.0\task32.exe
+C:\Users\admin\Downloads\Desktop\homework\task32\bin\Debug\net6.0\task32.deps.json
+C:\Users\admin\Downloads\Desktop\homework\task32\bin\Debug\net6.0\task32.runtimeconfig.json
+C:\Users\admin\Downloads\Desktop\homework\task32\bin\Debug\net6.0\task32.dll
+C:\Users\admin\Downloads\Desktop\homework\task32\bin\Debug\net6.0\task32.pdb
+C:\Users\admin\Downloads\Desktop\homework\task32\obj\Debug\net6.0\task32.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Desktop\homework\task32\obj\Debug\net6.0\task32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\Desktop\homework\task32\obj\Debug\net6.0\task32.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\Desktop\homework\task32\obj\Debug\net6.0\task32.AssemblyInfo.cs
+C:\Users\admin\Downloads\Desktop\homework\task32\obj\Debug\net6.0\task32.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Desktop\homework\task32\obj\Debug\net6.0\task32.dll
+C:\Users\admin\Downloads\Desktop\homework\task32\obj\Debug\net6.0\refint\task32.dll
+C:\Users\admin\Downloads\Desktop\homework\task32\obj\Debug\net6.0\task32.pdb
+C:\Users\admin\Downloads\Desktop\homework\task32\obj\Debug\net6.0\task32.genruntimeconfig.cache
+C:\Users\admin\Downloads\Desktop\homework\task32\obj\Debug\net6.0\ref\task32.dll
