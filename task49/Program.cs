@@ -25,13 +25,13 @@ int columns = int.Parse(ReadLine());
 
 int[,] array = GetArray(rows, columns, 0, 10);
 PrintArray(array);
-//WriteLine();
+WriteLine();
 ChangeArray(array);
-//PrintArray(array);
-//WriteLine();
-//PrintArray(ChangeArray(array));
-//WriteLine();
-//PrintArray(array);
+PrintArray(array);
+WriteLine();
+PrintArray(ChangeArray(array));
+WriteLine();
+PrintArray(array);
 
 int[,] GetArray(int m, int n, int min, int max)
 {
@@ -67,7 +67,7 @@ void PrintArray(int[,] array)
     {
         for (int j = 0; j < array.GetLength(1); j++)
         {
-            Write($"{array[i,  j]} ");
+            Write($"{array[i, j]} ");
         }
         WriteLine();
     }
